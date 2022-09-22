@@ -1,0 +1,4 @@
+[submodule "tongsuo"]
+	path = src/openssl
+	url = https://github.com/Tongsuo-Project/Tongsuo
+	branch = master
